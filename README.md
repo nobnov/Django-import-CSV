@@ -14,10 +14,13 @@ or
 	
 ## Sample usage
 
+import file
 ![django admin site](static/images/django-admin-site_1.png)
 
+select file
 ![django admin site](static/images/django-admin-site_2.png)
 
+preview data
 ![django admin site](static/images/django-admin-site_3.png)
 
 ## Result
